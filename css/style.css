@@ -10,6 +10,11 @@ body{
     font-family: 'OpenSans-Regular';
     src:url(../fonts/OpenSans-Regular.ttf) format('truetype');
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
 .mainHeader{
 	  position: fixed; 
     top: -60px; 
